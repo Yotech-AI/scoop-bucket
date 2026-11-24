@@ -6,7 +6,7 @@
         "No checkver or autoupdate: only that script changes the version, and only after the release's signature checks.",
         "The hersir command is hersir.ps1, which pre_install writes beside hersir.exe: Scoop's shim for a window app such as hersir.exe returns at once, without its output, so hersir --version would print nothing."
     ],
-    "version": "0.19.0",
+    "version": "0.20.0",
     "description": "Talk to one Chief that runs a team of AI coding agents through your board",
     "homepage": "https://hersir.dev",
     "license": "Apache-2.0",
@@ -16,8 +16,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yotech-AI/hersir/releases/download/v0.19.0/hersir-0.19.0-windows-x86_64.zip",
-            "hash": "e4e5788bcf2fab06fd2152374243d6d9112e231bf27c858680a8c15062c56d10"
+            "url": "https://github.com/Yotech-AI/hersir/releases/download/v0.20.0/hersir-0.20.0-windows-x86_64.zip",
+            "hash": "23ecd34394b8dac44265b17ee75a3e76f437c55cb85df979a378b006605a0b73"
         }
     },
     "extract_dir": "target\\release",
